@@ -2,6 +2,8 @@
 The Iris classification problem
 My first tensorflow demo 
 
+reference page: https://www.tensorflow.org/get_started/eager
+
 Date : 2018.5.8
 Auther : Asher Zheng
 
